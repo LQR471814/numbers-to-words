@@ -14,7 +14,7 @@ python3 main.py
 
 1. **Less code:** 42.8% less characters used in the final implementation. (this solution: 1747 chars, original solution: 3055 chars)
 2. **More numbers:** This solution supports numbers up to `10^99`. The original solution only goes up to `10^24`.
-3. **Easy extensions:** If for whatever reason you need to support larger numbers, you can simply add more numbers to the end of the list that starts with `["thousand", "million", ...]`.
+3. **Easy extensions:** If for whatever reason you need to support larger numbers, you can simply add more numbers to the end of the list that starts with `["thousand", "million", ...]`, no need to increment numbers or add to multiple lists.
 
 ## How does it work?
 
